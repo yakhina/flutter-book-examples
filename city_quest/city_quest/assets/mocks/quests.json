@@ -1,0 +1,1902 @@
+[
+    {
+    "id": "moscow_01",
+    "cityId": "moscow",
+    "title": "Красная площадь",
+    "description": "Главная площадь страны, историческое сердце Москвы.",
+    "latitude": 55.753930,
+    "longitude": 37.620795,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_02",
+    "cityId": "moscow",
+    "title": "ВДНХ — Главный вход",
+    "description": "Выставочный комплекс, культурный центр и парк.",
+    "latitude": 55.829990,
+    "longitude": 37.633701,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_03",
+    "cityId": "moscow",
+    "title": "Парк Горького — Центральная арка",
+    "description": "Один из главных парков Москвы, популярное место отдыха.",
+    "latitude": 55.729876,
+    "longitude": 37.603535,
+    "radius": 50.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_04",
+    "cityId": "moscow",
+    "title": "Москва-Сити — Смотровая площадка",
+    "description": "Современный деловой центр с небоскребами.",
+    "latitude": 55.748383,
+    "longitude": 37.537869,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_05",
+    "cityId": "moscow",
+    "title": "Патриаршие пруды",
+    "description": "Культовое тихое место в центре Москвы.",
+    "latitude": 55.763019,
+    "longitude": 37.594140,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_06",
+    "cityId": "moscow",
+    "title": "Сокольники — Главный вход",
+    "description": "Огромный исторический парк на востоке Москвы.",
+    "latitude": 55.794259,
+    "longitude": 37.678373,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_07",
+    "cityId": "moscow",
+    "title": "Измайловский Кремль",
+    "description": "Декоративный кремль и культурно-туристический центр.",
+    "latitude": 55.793152,
+    "longitude": 37.749550,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_08",
+    "cityId": "moscow",
+    "title": "Лужники — Центральный вход",
+    "description": "Один из главных спортивных комплексов страны.",
+    "latitude": 55.715675,
+    "longitude": 37.553419,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_09",
+    "cityId": "moscow",
+    "title": "Арбат — Старый Арбат",
+    "description": "Знаменитая пешеходная улица с музыкантами и художниками.",
+    "latitude": 55.752080,
+    "longitude": 37.592669,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_10",
+    "cityId": "moscow",
+    "title": "Тверская площадь",
+    "description": "Центральная площадь рядом с мэрией Москвы.",
+    "latitude": 55.762250,
+    "longitude": 37.606068,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_11",
+    "cityId": "moscow",
+    "title": "Парк Зарядье",
+    "description": "Современный парк у Кремля с панорамным мостом.",
+    "latitude": 55.752548,
+    "longitude": 37.627232,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_12",
+    "cityId": "moscow",
+    "title": "Большой театр",
+    "description": "Главный театр оперы и балета в России.",
+    "latitude": 55.760133,
+    "longitude": 37.618697,
+    "radius": 50.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_13",
+    "cityId": "moscow",
+    "title": "Воробьёвы горы — Смотровая площадка",
+    "description": "Панорамная точка с видом на центр Москвы.",
+    "latitude": 55.709388,
+    "longitude": 37.558647,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_14",
+    "cityId": "moscow",
+    "title": "Парк Коломенское",
+    "description": "Исторический музей-заповедник на берегу Москвы-реки.",
+    "latitude": 55.667689,
+    "longitude": 37.669915,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_15",
+    "cityId": "moscow",
+    "title": "Останкинская башня",
+    "description": "Телебашня с обзорной площадкой.",
+    "latitude": 55.819769,
+    "longitude": 37.611119,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_16",
+    "cityId": "moscow",
+    "title": "Музей Космонавтики",
+    "description": "Посвящён истории освоения космоса.",
+    "latitude": 55.821575,
+    "longitude": 37.639886,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_17",
+    "cityId": "moscow",
+    "title": "Таганская площадь",
+    "description": "Историческая площадь недалеко от Садового кольца.",
+    "latitude": 55.741304,
+    "longitude": 37.652680,
+    "radius": 55.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_18",
+    "cityId": "moscow",
+    "title": "Площадь Ильинские ворота",
+    "description": "Возле Чистых прудов, оживлённый пешеходный район.",
+    "latitude": 55.761997,
+    "longitude": 37.640996,
+    "radius": 50.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_19",
+    "cityId": "moscow",
+    "title": "Чистые пруды — Набережная",
+    "description": "Живописный городской пруд.",
+    "latitude": 55.764410,
+    "longitude": 37.638715,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_20",
+    "cityId": "moscow",
+    "title": "Проспект Мира — Вход в Ботанический сад",
+    "description": "Вход в ЦБС РАН.",
+    "latitude": 55.846297,
+    "longitude": 37.602816,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_21",
+    "cityId": "moscow",
+    "title": "Парк Сокольники — Ротонда",
+    "description": "Центральная точка парка Сокольники.",
+    "latitude": 55.790450,
+    "longitude": 37.678192,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_22",
+    "cityId": "moscow",
+    "title": "Музеон — Скульптурный парк",
+    "description": "Огромная коллекция монументальной скульптуры.",
+    "latitude": 55.732515,
+    "longitude": 37.604437,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_23",
+    "cityId": "moscow",
+    "title": "Новодевичий монастырь",
+    "description": "Исторический монастырь и живописный пруд.",
+    "latitude": 55.726667,
+    "longitude": 37.554957,
+    "radius": 65.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_24",
+    "cityId": "moscow",
+    "title": "Площадь Европы (возле Киевского вокзала)",
+    "description": "Набережная и фонтаны у ТРЦ Европейский.",
+    "latitude": 55.744169,
+    "longitude": 37.566925,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_25",
+    "cityId": "moscow",
+    "title": "Тушинская набережная",
+    "description": "Парк и виды на Москву-реку.",
+    "latitude": 55.823615,
+    "longitude": 37.433527,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_26",
+    "cityId": "moscow",
+    "title": "Парк Фили — Центральная поляна",
+    "description": "Популярный парк на западе Москвы.",
+    "latitude": 55.740874,
+    "longitude": 37.483524,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_27",
+    "cityId": "moscow",
+    "title": "Кузьминский парк — Пруд",
+    "description": "Пруд в большом природном парке Москвы.",
+    "latitude": 55.694730,
+    "longitude": 37.743583,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_28",
+    "cityId": "moscow",
+    "title": "Лианозовский парк",
+    "description": "Северный парк отдыха с эко-тропами.",
+    "latitude": 55.898635,
+    "longitude": 37.587892,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_29",
+    "cityId": "moscow",
+    "title": "Измайловский парк — Центр",
+    "description": "Зелёный парк с озёрами на востоке Москвы.",
+    "latitude": 55.790217,
+    "longitude": 37.744444,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "moscow_30",
+    "cityId": "moscow",
+    "title": "Парк Южное Бутово — Главная площадь",
+    "description": "Крупный современный парк на юго-западе Москвы.",
+    "latitude": 55.541696,
+    "longitude": 37.570984,
+    "radius": 100.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_01",
+    "cityId": "cupertino",
+    "title": "Apple Park Visitor Center",
+    "description": "Посетительский центр Apple Park с кафе и AR-макетом кампуса.",
+    "latitude": 37.334812,
+    "longitude": -122.009046,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_02",
+    "cityId": "cupertino",
+    "title": "Apple Park — Main Entrance",
+    "description": "Главный вход в кампус Apple Park.",
+    "latitude": 37.333975,
+    "longitude": -122.030758,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_03",
+    "cityId": "cupertino",
+    "title": "Infinite Loop 1",
+    "description": "Историческое здание штаб-квартиры Apple на Infinite Loop.",
+    "latitude": 37.331695,
+    "longitude": -122.030273,
+    "radius": 50.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_04",
+    "cityId": "cupertino",
+    "title": "Infinite Loop 6",
+    "description": "Часть кампуса Apple, рядом с фирменным магазином.",
+    "latitude": 37.331366,
+    "longitude": -122.028115,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_05",
+    "cityId": "cupertino",
+    "title": "Apple Store Infinite Loop",
+    "description": "Фирменный магазин Apple, работающий прямо на кампусе.",
+    "latitude": 37.331806,
+    "longitude": -122.029642,
+    "radius": 50.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_06",
+    "cityId": "cupertino",
+    "title": "Cupertino Memorial Park",
+    "description": "Большой городской парк рядом с De Anza College.",
+    "latitude": 37.323574,
+    "longitude": -122.033515,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_07",
+    "cityId": "cupertino",
+    "title": "De Anza College",
+    "description": "Крупный колледж с инфраструктурой, парком и музеем.",
+    "latitude": 37.319839,
+    "longitude": -122.044890,
+    "radius": 50.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_08",
+    "cityId": "cupertino",
+    "title": "Cupertino City Hall",
+    "description": "Здание администрации города Купертино.",
+    "latitude": 37.322156,
+    "longitude": -122.031678,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_09",
+    "cityId": "cupertino",
+    "title": "Cupertino Library",
+    "description": "Современная городская библиотека с большими залами.",
+    "latitude": 37.322847,
+    "longitude": -122.027366,
+    "radius": 50.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_10",
+    "cityId": "cupertino",
+    "title": "Portal Park",
+    "description": "Небольшой тихий парк неподалёку от жилых районов.",
+    "latitude": 37.336810,
+    "longitude": -122.045540,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_11",
+    "cityId": "cupertino",
+    "title": "Creekside Park",
+    "description": "Зелёный семейный парк вдоль Stevens Creek.",
+    "latitude": 37.333210,
+    "longitude": -122.045910,
+    "radius": 65.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_12",
+    "cityId": "cupertino",
+    "title": "Homestead High School",
+    "description": "Школа, в которой учился Стив Джобс.",
+    "latitude": 37.351168,
+    "longitude": -122.038216,
+    "radius": 180.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_13",
+    "cityId": "cupertino",
+    "title": "Stevens Creek County Park",
+    "description": "Большой природный парк и прогулочные тропы.",
+    "latitude": 37.310920,
+    "longitude": -122.078312,
+    "radius": 200.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_14",
+    "cityId": "cupertino",
+    "title": "Blackberry Farm",
+    "description": "Парк с бассейном и зонами отдыха рядом с гольф-клубом.",
+    "latitude": 37.313709,
+    "longitude": -122.064110,
+    "radius": 160.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_15",
+    "cityId": "cupertino",
+    "title": "Cupertino Village",
+    "description": "Популярный азиатский торговый центр.",
+    "latitude": 37.331285,
+    "longitude": -122.015150,
+    "radius": 65.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_16",
+    "cityId": "cupertino",
+    "title": "Monta Vista High School",
+    "description": "Одна из лучших школ в округе Santa Clara.",
+    "latitude": 37.323500,
+    "longitude": -122.055842,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_17",
+    "cityId": "cupertino",
+    "title": "Linda Vista Park",
+    "description": "Холмистый парк с видами на Cupertino и Santa Clara Valley.",
+    "latitude": 37.311750,
+    "longitude": -122.054123,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_18",
+    "cityId": "cupertino",
+    "title": "Rancho San Antonio",
+    "description": "Большой природный заповедник с лужайками и trail.",
+    "latitude": 37.351840,
+    "longitude": -122.087200,
+    "radius": 250.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_19",
+    "cityId": "cupertino",
+    "title": "Vallco Shopping District",
+    "description": "Район вокруг Vallco — будущего крупного проекта The Rise.",
+    "latitude": 37.323325,
+    "longitude": -122.042850,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_20",
+    "cityId": "cupertino",
+    "title": "Main Street Cupertino",
+    "description": "Модный район с ресторанами и современными зданиями.",
+    "latitude": 37.334240,
+    "longitude": -122.046790,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_21",
+    "cityId": "cupertino",
+    "title": "Stevens Creek Trail Access",
+    "description": "Вход на популярную вело-и пешую тропу.",
+    "latitude": 37.341580,
+    "longitude": -122.051840,
+    "radius": 160.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_22",
+    "cityId": "cupertino",
+    "title": "Portal Plaza",
+    "description": "Коммерческая зона рядом с residential-районом.",
+    "latitude": 37.336990,
+    "longitude": -122.050320,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_23",
+    "cityId": "cupertino",
+    "title": "Memorial Park Amphitheater",
+    "description": "Площадка для мероприятий в Memorial Park.",
+    "latitude": 37.325628,
+    "longitude": -122.034260,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_24",
+    "cityId": "cupertino",
+    "title": "Varian Park",
+    "description": "Тихий парк в жилом районе западнее De Anza Blvd.",
+    "latitude": 37.326985,
+    "longitude": -122.050544,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_25",
+    "cityId": "cupertino",
+    "title": "Creekside Trail",
+    "description": "Прогулочная дорожка вдоль Stevens Creek.",
+    "latitude": 37.330820,
+    "longitude": -122.047480,
+    "radius": 110.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_26",
+    "cityId": "cupertino",
+    "title": "Sunnyvale Farmers’ Market (border area)",
+    "description": "Фермерский рынок рядом с границей Sunnyvale.",
+    "latitude": 37.349698,
+    "longitude": -122.030760,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_27",
+    "cityId": "cupertino",
+    "title": "Cupertino Post Office",
+    "description": "Центральное отделение почты Купертино.",
+    "latitude": 37.327996,
+    "longitude": -122.031922,
+    "radius": 65.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_28",
+    "cityId": "cupertino",
+    "title": "Ortega Park",
+    "description": "Парк на северо-восточной границе Cupertino–Sunnyvale.",
+    "latitude": 37.351959,
+    "longitude": -122.026930,
+    "radius": 160.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_29",
+    "cityId": "cupertino",
+    "title": "Raynor Park",
+    "description": "Парк на Stevens Creek Blvd возле жилого района.",
+    "latitude": 37.336602,
+    "longitude": -122.032980,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "cupertino_30",
+    "cityId": "cupertino",
+    "title": "The Oaks Shopping Center",
+    "description": "Один из старейших торговых центров в Купертино.",
+    "latitude": 37.323240,
+    "longitude": -122.023420,
+    "radius": 85.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_01",
+    "cityId": "saint_petersburg",
+    "title": "Дворцовая площадь",
+    "description": "Главная площадь Петербурга рядом с Эрмитажем.",
+    "latitude": 59.939832,
+    "longitude": 30.314566,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_02",
+    "cityId": "saint_petersburg",
+    "title": "Невский проспект — Гостиный двор",
+    "description": "Одна из центральных станций на Невском проспекте.",
+    "latitude": 59.934639,
+    "longitude": 30.335358,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_03",
+    "cityId": "saint_petersburg",
+    "title": "Храм Спаса на Крови",
+    "description": "Один из символов Петербурга, храм-памятник.",
+    "latitude": 59.940373,
+    "longitude": 30.328583,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_04",
+    "cityId": "saint_petersburg",
+    "title": "Петропавловская крепость",
+    "description": "Исторический центр и крепость на Заячьем острове.",
+    "latitude": 59.950047,
+    "longitude": 30.316877,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_05",
+    "cityId": "saint_petersburg",
+    "title": "Стрелка Васильевского острова",
+    "description": "Живописная набережная с Ростральными колоннами.",
+    "latitude": 59.944713,
+    "longitude": 30.313323,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_06",
+    "cityId": "saint_petersburg",
+    "title": "Летний сад",
+    "description": "Исторический парк, созданный по указу Петра I.",
+    "latitude": 59.945734,
+    "longitude": 30.343675,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_07",
+    "cityId": "saint_petersburg",
+    "title": "Морской вокзал",
+    "description": "Большой многоуровневый терминал на Васильевском острове.",
+    "latitude": 59.938393,
+    "longitude": 30.253396,
+    "radius": 50.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_08",
+    "cityId": "saint_petersburg",
+    "title": "Парк Победы",
+    "description": "Один из крупнейших парков южной части города.",
+    "latitude": 59.849500,
+    "longitude": 30.318350,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_09",
+    "cityId": "saint_petersburg",
+    "title": "Новая Голландия",
+    "description": "Современное общественное пространство на острове.",
+    "latitude": 59.933072,
+    "longitude": 30.297872,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_10",
+    "cityId": "saint_petersburg",
+    "title": "Серебряный Бор — Приморский парк Победы",
+    "description": "Большая зелёная зона рядом с Крестовским островом.",
+    "latitude": 59.971802,
+    "longitude": 30.259558,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_11",
+    "cityId": "saint_petersburg",
+    "title": "Казанский собор",
+    "description": "Один из крупнейших соборов Петербурга, вдохновлённый базиликой Святого Петра.",
+    "latitude": 59.934280,
+    "longitude": 30.324451,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_12",
+    "cityId": "saint_petersburg",
+    "title": "Исаакиевский собор",
+    "description": "Главный храм города и одна из крупнейших купольных церквей мира.",
+    "latitude": 59.933958,
+    "longitude": 30.306239,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_13",
+    "cityId": "saint_petersburg",
+    "title": "Медный всадник",
+    "description": "Памятник Петру I на Сенатской площади.",
+    "latitude": 59.937853,
+    "longitude": 30.302356,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_14",
+    "cityId": "saint_petersburg",
+    "title": "Мариинский театр",
+    "description": "Главная оперная и балетная сцена Петербурга.",
+    "latitude": 59.927136,
+    "longitude": 30.302839,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_15",
+    "cityId": "saint_petersburg",
+    "title": "Никольский морской собор",
+    "description": "Барочный храм XVIII века на Крюковом канале.",
+    "latitude": 59.925765,
+    "longitude": 30.296663,
+    "radius": 55.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_16",
+    "cityId": "saint_petersburg",
+    "title": "Сенная площадь",
+    "description": "Одна из старейших площадей центра Петербурга.",
+    "latitude": 59.929373,
+    "longitude": 30.318093,
+    "radius": 65.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_17",
+    "cityId": "saint_petersburg",
+    "title": "Троицкий мост",
+    "description": "Красивый мост через Неву с видом на Летний сад.",
+    "latitude": 59.944937,
+    "longitude": 30.333482,
+    "radius": 75.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_18",
+    "cityId": "saint_petersburg",
+    "title": "Аврора",
+    "description": "Легендарный крейсер-музей.",
+    "latitude": 59.955047,
+    "longitude": 30.337081,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_19",
+    "cityId": "saint_petersburg",
+    "title": "Смольный собор",
+    "description": "Памятник елизаветинского барокко.",
+    "latitude": 59.948719,
+    "longitude": 30.476967,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_20",
+    "cityId": "saint_petersburg",
+    "title": "Александро-Невская лавра",
+    "description": "Монастырский комплекс и некрополь XVIII века.",
+    "latitude": 59.923454,
+    "longitude": 30.388470,
+    "radius": 85.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_21",
+    "cityId": "saint_petersburg",
+    "title": "Зимняя канавка",
+    "description": "Живописный узкий канал рядом с Эрмитажем.",
+    "latitude": 59.940094,
+    "longitude": 30.313526,
+    "radius": 55.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_22",
+    "cityId": "saint_petersburg",
+    "title": "Галерея",
+    "description": "Главный торговый центр в центре Петербурга.",
+    "latitude": 59.930559,
+    "longitude": 30.360268,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_23",
+    "cityId": "saint_petersburg",
+    "title": "Московский вокзал",
+    "description": "Крупнейший железнодорожный узел города.",
+    "latitude": 59.930051,
+    "longitude": 30.360175,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_24",
+    "cityId": "saint_petersburg",
+    "title": "Планетарий №1",
+    "description": "Современный планетарий в бывшем газгольдере.",
+    "latitude": 59.940676,
+    "longitude": 30.358722,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_25",
+    "cityId": "saint_petersburg",
+    "title": "Крестовский остров — Парк",
+    "description": "Популярный парк отдыха рядом с ареной.",
+    "latitude": 59.971880,
+    "longitude": 30.258510,
+    "radius": 100.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_26",
+    "cityId": "saint_petersburg",
+    "title": "Газпром Арена",
+    "description": "Домашний стадион Зенита на Крестовском острове.",
+    "latitude": 59.972740,
+    "longitude": 30.221996,
+    "radius": 110.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_27",
+    "cityId": "saint_petersburg",
+    "title": "Елагин остров",
+    "description": "Парк и дворец на живописном острове.",
+    "latitude": 59.972186,
+    "longitude": 30.259663,
+    "radius": 95.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_28",
+    "cityId": "saint_petersburg",
+    "title": "Пулковский парк",
+    "description": "Большой парк на юге Петербурга.",
+    "latitude": 59.870544,
+    "longitude": 30.329901,
+    "radius": 85.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_29",
+    "cityId": "saint_petersburg",
+    "title": "Пулково — Терминал B",
+    "description": "Главный международный аэропорт Петербурга.",
+    "latitude": 59.806870,
+    "longitude": 30.308305,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "spb_30",
+    "cityId": "saint_petersburg",
+    "title": "Шушары — Парк Интернациональный",
+    "description": "Новый просторный парк южного района.",
+    "latitude": 59.807920,
+    "longitude": 30.396850,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_01",
+    "cityId": "novosibirsk",
+    "title": "Площадь Ленина",
+    "description": "Главная площадь Новосибирска и крупнейшая площадь в России.",
+    "latitude": 55.030997,
+    "longitude": 82.920654,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_02",
+    "cityId": "novosibirsk",
+    "title": "Новосибирский театр оперы и балета",
+    "description": "Самый большой театр России по площади.",
+    "latitude": 55.030592,
+    "longitude": 82.925236,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_03",
+    "cityId": "novosibirsk",
+    "title": "Метромост через Обь",
+    "description": "Самый длинный метромост в мире.",
+    "latitude": 55.041419,
+    "longitude": 82.920340,
+    "radius": 100.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_04",
+    "cityId": "novosibirsk",
+    "title": "Парк Городское начало",
+    "description": "Место основания Новосибирска с музеем и видом на реку.",
+    "latitude": 55.013883,
+    "longitude": 82.953836,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_05",
+    "cityId": "novosibirsk",
+    "title": "Заельцовский парк",
+    "description": "Крупнейший лесопарк в центре города.",
+    "latitude": 54.993383,
+    "longitude": 82.860549,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_06",
+    "cityId": "novosibirsk",
+    "title": "Новосибирский зоопарк",
+    "description": "Один из самых больших зоопарков России.",
+    "latitude": 54.977250,
+    "longitude": 82.855850,
+    "radius": 100.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_07",
+    "cityId": "novosibirsk",
+    "title": "Аквапарк Аквамир",
+    "description": "Крупнейший крытый аквапарк Сибири.",
+    "latitude": 54.989823,
+    "longitude": 82.978836,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_08",
+    "cityId": "novosibirsk",
+    "title": "Площадь Маркса",
+    "description": "Деловой центр Левого берега.",
+    "latitude": 54.982593,
+    "longitude": 82.896772,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_09",
+    "cityId": "novosibirsk",
+    "title": "ТЦ Аура",
+    "description": "Популярный торгово-развлекательный центр.",
+    "latitude": 55.030052,
+    "longitude": 82.956598,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "novosibirsk_10",
+    "cityId": "novosibirsk",
+    "title": "Набережная Оби",
+    "description": "Популярная прогулочная зона у реки.",
+    "latitude": 55.017013,
+    "longitude": 82.915200,
+    "radius": 110.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_01",
+    "cityId": "yekaterinburg",
+    "title": "Плотинка",
+    "description": "Историческое сердце города и популярная набережная.",
+    "latitude": 56.838011,
+    "longitude": 60.597474,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_02",
+    "cityId": "yekaterinburg",
+    "title": "Храм-на-Крови",
+    "description": "Главный православный храм города, построенный на месте Ипатьевского дома.",
+    "latitude": 56.838386,
+    "longitude": 60.603192,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_03",
+    "cityId": "yekaterinburg",
+    "title": "Ельцин Центр",
+    "description": "Современный музейно-образовательный центр.",
+    "latitude": 56.826352,
+    "longitude": 60.594421,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_04",
+    "cityId": "yekaterinburg",
+    "title": "Площадь 1905 года",
+    "description": "Главная площадь города.",
+    "latitude": 56.837017,
+    "longitude": 60.595268,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_05",
+    "cityId": "yekaterinburg",
+    "title": "Шарташские каменные палатки",
+    "description": "Уникальные природные образования и смотровые площадки.",
+    "latitude": 56.844760,
+    "longitude": 60.664830,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_06",
+    "cityId": "yekaterinburg",
+    "title": "Дендропарк",
+    "description": "Ботанический сад в центре города.",
+    "latitude": 56.833780,
+    "longitude": 60.612840,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_07",
+    "cityId": "yekaterinburg",
+    "title": "ВИЗовская набережная",
+    "description": "Современная река-парк зона.",
+    "latitude": 56.857050,
+    "longitude": 60.560550,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_08",
+    "cityId": "yekaterinburg",
+    "title": "Парк Маяковского",
+    "description": "Главный парк отдыха Екатеринбурга.",
+    "latitude": 56.818952,
+    "longitude": 60.630650,
+    "radius": 130.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_09",
+    "cityId": "yekaterinburg",
+    "title": "Оперный театр",
+    "description": "Исторический театр оперы и балета.",
+    "latitude": 56.837563,
+    "longitude": 60.612812,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "yekaterinburg_10",
+    "cityId": "yekaterinburg",
+    "title": "Высоцкий — смотровая площадка",
+    "description": "Панорама всего города с высоты небоскрёба.",
+    "latitude": 56.837688,
+    "longitude": 60.603140,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_01",
+    "cityId": "kazan",
+    "title": "Казанский Кремль",
+    "description": "Главная достопримечательность Казани и объект всемирного наследия ЮНЕСКО.",
+    "latitude": 55.799937,
+    "longitude": 49.106342,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_02",
+    "cityId": "kazan",
+    "title": "Мечеть Кул-Шариф",
+    "description": "Одна из крупнейших мечетей Европы, символ Казани.",
+    "latitude": 55.797520,
+    "longitude": 49.107410,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_03",
+    "cityId": "kazan",
+    "title": "Башня Сююмбике",
+    "description": "Легендарная ханская башня с романтичной историей.",
+    "latitude": 55.798820,
+    "longitude": 49.108894,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_04",
+    "cityId": "kazan",
+    "title": "Чаша — Центр семьи",
+    "description": "Огромная смотровая площадка в виде чаши, яркий символ города.",
+    "latitude": 55.821134,
+    "longitude": 49.089686,
+    "radius": 130.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_05",
+    "cityId": "kazan",
+    "title": "Набережная Кремлёвская",
+    "description": "Пешеходная зона с видами на Кремль и реку Казанку.",
+    "latitude": 55.801564,
+    "longitude": 49.114811,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_06",
+    "cityId": "kazan",
+    "title": "Богоявленский собор и колокольня",
+    "description": "Знаменитая колокольня на пешеходной улице Баумана.",
+    "latitude": 55.788740,
+    "longitude": 49.122040,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_07",
+    "cityId": "kazan",
+    "title": "Парк Чёрное озеро",
+    "description": "Популярный парк в центре города.",
+    "latitude": 55.786540,
+    "longitude": 49.110210,
+    "radius": 110.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_08",
+    "cityId": "kazan",
+    "title": "Татнефть Арена",
+    "description": "Главная спортивная арена с мероприятиями и хоккеем.",
+    "latitude": 55.822846,
+    "longitude": 49.161772,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_09",
+    "cityId": "kazan",
+    "title": "Парк Горького",
+    "description": "Один из старейших парков Казани.",
+    "latitude": 55.777720,
+    "longitude": 49.147120,
+    "radius": 140.0,
+    "isCompleted": false
+  },
+  {
+    "id": "kazan_10",
+    "cityId": "kazan",
+    "title": "Озеро Кабан — Набережная",
+    "description": "Реконструированная набережная вокруг Нижнего Кабана.",
+    "latitude": 55.782290,
+    "longitude": 49.139972,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_01",
+    "cityId": "nizhny_novgorod",
+    "title": "Нижегородский Кремль",
+    "description": "Главная достопримечательность города, крепость XVI века.",
+    "latitude": 56.328640,
+    "longitude": 44.002190,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_02",
+    "cityId": "nizhny_novgorod",
+    "title": "Площадь Минина и Пожарского",
+    "description": "Центральная площадь у стен Кремля.",
+    "latitude": 56.326258,
+    "longitude": 44.006100,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_03",
+    "cityId": "nizhny_novgorod",
+    "title": "Чкаловская лестница",
+    "description": "Одна из самых длинных лестниц в России с видом на Волгу.",
+    "latitude": 56.330265,
+    "longitude": 44.009768,
+    "radius": 130.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_04",
+    "cityId": "nizhny_novgorod",
+    "title": "Набережная Федоровского",
+    "description": "Панорамная набережная с видом на стрелку Оки и Волги.",
+    "latitude": 56.333885,
+    "longitude": 43.999645,
+    "radius": 160.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_05",
+    "cityId": "nizhny_novgorod",
+    "title": "Большая Покровская улица",
+    "description": "Главная пешеходная улица города.",
+    "latitude": 56.323520,
+    "longitude": 44.007660,
+    "radius": 110.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_06",
+    "cityId": "nizhny_novgorod",
+    "title": "Стрелка Оки и Волги",
+    "description": "Знаковое место слияния двух рек.",
+    "latitude": 56.344729,
+    "longitude": 43.965199,
+    "radius": 200.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_07",
+    "cityId": "nizhny_novgorod",
+    "title": "Стадион Нижний Новгород",
+    "description": "Футбольный стадион, построенный к ЧМ-2018.",
+    "latitude": 56.337280,
+    "longitude": 43.963570,
+    "radius": 180.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_08",
+    "cityId": "nizhny_novgorod",
+    "title": "Канатная дорога Нижний Новгород — Бор",
+    "description": "Живописная канатка через Волгу.",
+    "latitude": 56.345889,
+    "longitude": 43.979740,
+    "radius": 200.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_09",
+    "cityId": "nizhny_novgorod",
+    "title": "Парк Швейцария",
+    "description": "Большой парк вдоль Оки с современными зонами отдыха.",
+    "latitude": 56.297510,
+    "longitude": 44.043500,
+    "radius": 200.0,
+    "isCompleted": false
+  },
+  {
+    "id": "nn_10",
+    "cityId": "nizhny_novgorod",
+    "title": "Ока — Набережная",
+    "description": "Живописная прогулочная зона с ресторанами и видом на реку.",
+    "latitude": 56.304810,
+    "longitude": 44.027800,
+    "radius": 170.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_01",
+    "cityId": "samara",
+    "title": "Самарская набережная (Ладья)",
+    "description": "Главная смотровая точка и символ города с видом на Волгу.",
+    "latitude": 53.203580,
+    "longitude": 50.106920,
+    "radius": 180.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_02",
+    "cityId": "samara",
+    "title": "Площадь Куйбышева",
+    "description": "Одна из крупнейших площадей в Европе.",
+    "latitude": 53.195730,
+    "longitude": 50.101650,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_03",
+    "cityId": "samara",
+    "title": "Струковский сад",
+    "description": "Старейший парк Самары на высоком берегу Волги.",
+    "latitude": 53.191680,
+    "longitude": 50.102950,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_04",
+    "cityId": "samara",
+    "title": "Научно-технический музей имени С.П. Королева",
+    "description": "Музей космонавтики с настоящей ракетой-носителем.",
+    "latitude": 53.232200,
+    "longitude": 50.201700,
+    "radius": 200.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_05",
+    "cityId": "samara",
+    "title": "Самарский космический музей",
+    "description": "Популярный музей рядом с ТЦ Космопорт.",
+    "latitude": 53.240020,
+    "longitude": 50.221660,
+    "radius": 160.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_06",
+    "cityId": "samara",
+    "title": "Иверский монастырь",
+    "description": "Исторический монастырь на Волжском склоне.",
+    "latitude": 53.207420,
+    "longitude": 50.089520,
+    "radius": 130.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_07",
+    "cityId": "samara",
+    "title": "Верёвочные тропы «Самарская Лука»",
+    "description": "Парк приключений у Жигулевских ворот.",
+    "latitude": 53.375400,
+    "longitude": 50.166900,
+    "radius": 220.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_08",
+    "cityId": "samara",
+    "title": "Бункер Сталина",
+    "description": "Огромный подземный комплекс 37 метров под землёй.",
+    "latitude": 53.195980,
+    "longitude": 50.106590,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_09",
+    "cityId": "samara",
+    "title": "Жигулёвский пивоваренный завод",
+    "description": "Знаменитый завод и смотровая на Комсомольской площади.",
+    "latitude": 53.189430,
+    "longitude": 50.082420,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "samara_10",
+    "cityId": "samara",
+    "title": "Самарский парк «Гагаринский»",
+    "description": "Большой парк с озером и прогулочными дорожками.",
+    "latitude": 53.217610,
+    "longitude": 50.149720,
+    "radius": 140.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_01",
+    "cityId": "rostov_on_don",
+    "title": "Набережная Ростова-на-Дону",
+    "description": "Главная прогулочная зона вдоль реки Дон.",
+    "latitude": 47.222510,
+    "longitude": 39.719770,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_02",
+    "cityId": "rostov_on_don",
+    "title": "Театральная площадь",
+    "description": "Одна из центральных площадей города с фонтанами.",
+    "latitude": 47.222700,
+    "longitude": 39.718200,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_03",
+    "cityId": "rostov_on_don",
+    "title": "Ростовский зоопарк",
+    "description": "Один из крупнейших зоопарков России.",
+    "latitude": 47.258200,
+    "longitude": 39.642400,
+    "radius": 300.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_04",
+    "cityId": "rostov_on_don",
+    "title": "Парк имени Горького",
+    "description": "Центральный парк с аттракционами и аллеями.",
+    "latitude": 47.217600,
+    "longitude": 39.710200,
+    "radius": 110.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_05",
+    "cityId": "rostov_on_don",
+    "title": "Собор Рождества Пресвятой Богородицы",
+    "description": "Главный кафедральный собор Ростова.",
+    "latitude": 47.222900,
+    "longitude": 39.720900,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_06",
+    "cityId": "rostov_on_don",
+    "title": "Парамоновские склады",
+    "description": "Историческое место у набережной с руинами складов.",
+    "latitude": 47.225300,
+    "longitude": 39.714200,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_07",
+    "cityId": "rostov_on_don",
+    "title": "Ботанический сад ЮФУ",
+    "description": "Большой природный комплекс на окраине города.",
+    "latitude": 47.255900,
+    "longitude": 39.651400,
+    "radius": 300.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_08",
+    "cityId": "rostov_on_don",
+    "title": "Парк Октября",
+    "description": "Парковая зона с прудом и длинными аллеями.",
+    "latitude": 47.244400,
+    "longitude": 39.723500,
+    "radius": 130.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_09",
+    "cityId": "rostov_on_don",
+    "title": "Кумженская роща",
+    "description": "Парк у устья Дона, место отдыха и пикников.",
+    "latitude": 47.235400,
+    "longitude": 39.686200,
+    "radius": 200.0,
+    "isCompleted": false
+  },
+  {
+    "id": "rostov_10",
+    "cityId": "rostov_on_don",
+    "title": "Стадион «Ростов Арена»",
+    "description": "Футбольный стадион, построенный к ЧМ-2018.",
+    "latitude": 47.209600,
+    "longitude": 39.738300,
+    "radius": 250.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_01",
+    "cityId": "ufa",
+    "title": "Памятник Салавату Юлаеву",
+    "description": "Главный символ Уфы на высоком берегу реки Белой.",
+    "latitude": 54.727568,
+    "longitude": 55.953548,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_02",
+    "cityId": "ufa",
+    "title": "Парк Якутова",
+    "description": "Исторический парк с прудом и аттракционами.",
+    "latitude": 54.743239,
+    "longitude": 55.967017,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_03",
+    "cityId": "ufa",
+    "title": "Уфа-АренА",
+    "description": "Современная ледовая арена хоккейного клуба «Салават Юлаев».",
+    "latitude": 54.731659,
+    "longitude": 55.950869,
+    "radius": 200.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_04",
+    "cityId": "ufa",
+    "title": "Собор Рождества Богородицы",
+    "description": "Крупный православный собор в центре города.",
+    "latitude": 54.734585,
+    "longitude": 55.946678,
+    "radius": 100.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_05",
+    "cityId": "ufa",
+    "title": "Парк Победы",
+    "description": "Мемориальный комплекс с аллеями и видом на реку Белая.",
+    "latitude": 54.720858,
+    "longitude": 55.972125,
+    "radius": 160.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_06",
+    "cityId": "ufa",
+    "title": "Ленинская площадь",
+    "description": "Центральная площадь города с памятником Ленину.",
+    "latitude": 54.735860,
+    "longitude": 55.956260,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_07",
+    "cityId": "ufa",
+    "title": "Сквер им. Мустая Карима",
+    "description": "Современный сквер рядом с Башдрамтеатром.",
+    "latitude": 54.732677,
+    "longitude": 55.940519,
+    "radius": 100.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_08",
+    "cityId": "ufa",
+    "title": "Ипподром «Акбузат»",
+    "description": "Спортивный комплекс и центр конного спорта Башкортостана.",
+    "latitude": 54.741970,
+    "longitude": 55.990173,
+    "radius": 220.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_09",
+    "cityId": "ufa",
+    "title": "Сад Аксакова",
+    "description": "Популярный городской парк возле Театра оперы и балета.",
+    "latitude": 54.735066,
+    "longitude": 55.964210,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "ufa_10",
+    "cityId": "ufa",
+    "title": "Конгресс-холл «Торатау»",
+    "description": "Современный культурный центр и место проведения мероприятий.",
+    "latitude": 54.724710,
+    "longitude": 55.957150,
+    "radius": 250.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_01",
+    "cityId": "volgograd",
+    "title": "Мамаев курган — Родина-мать",
+    "description": "Главная высота России и мемориал Великой Отечественной войны.",
+    "latitude": 48.742440,
+    "longitude": 44.536150,
+    "radius": 250.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_02",
+    "cityId": "volgograd",
+    "title": "Панорама «Сталинградская битва»",
+    "description": "Музей–панорама, посвящённый ключевому сражению войны.",
+    "latitude": 48.708297,
+    "longitude": 44.513095,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_03",
+    "cityId": "volgograd",
+    "title": "Площадь Павших борцов",
+    "description": "Центральная площадь города рядом с Аллеей Героев.",
+    "latitude": 48.707410,
+    "longitude": 44.513930,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_04",
+    "cityId": "volgograd",
+    "title": "Аллея Героев",
+    "description": "Главная парадная улица к набережной Волги.",
+    "latitude": 48.708890,
+    "longitude": 44.515910,
+    "radius": 100.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_05",
+    "cityId": "volgograd",
+    "title": "Царицынская опера",
+    "description": "Современный театр на месте исторического здания.",
+    "latitude": 48.713770,
+    "longitude": 44.503800,
+    "radius": 160.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_06",
+    "cityId": "volgograd",
+    "title": "Центральная набережная",
+    "description": "Главная набережная Волги и популярная прогулочная зона.",
+    "latitude": 48.715360,
+    "longitude": 44.519720,
+    "radius": 200.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_07",
+    "cityId": "volgograd",
+    "title": "Парк Победы",
+    "description": "Большой парк у интерактивного музея «Россия — моя история».",
+    "latitude": 48.697300,
+    "longitude": 44.480400,
+    "radius": 220.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_08",
+    "cityId": "volgograd",
+    "title": "Стадион Волгоград Арена",
+    "description": "Футбольный стадион, построенный к ЧМ-2018.",
+    "latitude": 48.734820,
+    "longitude": 44.548150,
+    "radius": 300.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_09",
+    "cityId": "volgograd",
+    "title": "Музей рядом с мельницей Гергарта",
+    "description": "Сохранившееся разрушенное здание — символ обороны города.",
+    "latitude": 48.708159,
+    "longitude": 44.521432,
+    "radius": 110.0,
+    "isCompleted": false
+  },
+  {
+    "id": "volgograd_10",
+    "cityId": "volgograd",
+    "title": "Сарептский музей-заповедник",
+    "description": "Исторический район — бывшая немецкая колония Сарепта.",
+    "latitude": 48.465560,
+    "longitude": 44.417360,
+    "radius": 350.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_01",
+    "cityId": "voronezh",
+    "title": "Адмиралтейская площадь",
+    "description": "Знаковая набережная у Петровской набережной.",
+    "latitude": 51.666654,
+    "longitude": 39.208402,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_02",
+    "cityId": "voronezh",
+    "title": "Петровский сквер",
+    "description": "Сквер с памятниками Петру I и кораблю.",
+    "latitude": 51.663508,
+    "longitude": 39.206170,
+    "radius": 90.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_03",
+    "cityId": "voronezh",
+    "title": "Кольцовский сквер",
+    "description": "Центральный сквер и популярное место отдыха.",
+    "latitude": 51.662291,
+    "longitude": 39.189895,
+    "radius": 70.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_04",
+    "cityId": "voronezh",
+    "title": "Площадь Ленина",
+    "description": "Главная площадь в центре города.",
+    "latitude": 51.661457,
+    "longitude": 39.200118,
+    "radius": 110.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_05",
+    "cityId": "voronezh",
+    "title": "Успенский Адмиралтейский храм",
+    "description": "Старинный храм XVII века на берегу Воронежского водохранилища.",
+    "latitude": 51.666834,
+    "longitude": 39.210832,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_06",
+    "cityId": "voronezh",
+    "title": "Воронежский океанариум",
+    "description": "Крупный океанариум в ТРК «Сити-Парк Град».",
+    "latitude": 51.745645,
+    "longitude": 39.169847,
+    "radius": 200.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_07",
+    "cityId": "voronezh",
+    "title": "Парк «Алые паруса»",
+    "description": "Один из самых красивых парков на берегу водохранилища.",
+    "latitude": 51.686090,
+    "longitude": 39.213730,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_08",
+    "cityId": "voronezh",
+    "title": "Дельфинарий Воронежа",
+    "description": "Популярное место для семейного отдыха.",
+    "latitude": 51.670570,
+    "longitude": 39.224880,
+    "radius": 130.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_09",
+    "cityId": "voronezh",
+    "title": "Парк «Динамо»",
+    "description": "Классический городской парк с озёрами.",
+    "latitude": 51.654750,
+    "longitude": 39.185280,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "voronezh_10",
+    "cityId": "voronezh",
+    "title": "Памятник Белому Биму",
+    "description": "Известный памятник литературному герою.",
+    "latitude": 51.661920,
+    "longitude": 39.202650,
+    "radius": 60.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_01",
+    "cityId": "krasnodar",
+    "title": "Парк Краснодар — Центральная площадь",
+    "description": "Главная площадка современного парка Галицкого.",
+    "latitude": 45.044956,
+    "longitude": 38.976864,
+    "radius": 150.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_02",
+    "cityId": "krasnodar",
+    "title": "Стадион «Краснодар»",
+    "description": "Знаменитый футбольный стадион с уникальной архитектурой.",
+    "latitude": 45.042976,
+    "longitude": 38.975464,
+    "radius": 170.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_03",
+    "cityId": "krasnodar",
+    "title": "Красная улица — Театральная площадь",
+    "description": "Центральная площадь города и популярное место прогулок.",
+    "latitude": 45.035327,
+    "longitude": 38.976809,
+    "radius": 120.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_04",
+    "cityId": "krasnodar",
+    "title": "Чистяковская роща",
+    "description": "Крупный городской парк с озером и аттракционами.",
+    "latitude": 45.046383,
+    "longitude": 39.003781,
+    "radius": 180.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_05",
+    "cityId": "krasnodar",
+    "title": "Парк «Солнечный остров»",
+    "description": "Популярный рекреационный парк на острове у Кубани.",
+    "latitude": 45.022558,
+    "longitude": 38.979900,
+    "radius": 170.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_06",
+    "cityId": "krasnodar",
+    "title": "Озеро Старая Кубань",
+    "description": "Живописная набережная с зонами отдыха.",
+    "latitude": 45.064221,
+    "longitude": 38.982198,
+    "radius": 160.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_07",
+    "cityId": "krasnodar",
+    "title": "Кубанский государственный университет",
+    "description": "Крупнейший университет Краснодарского края.",
+    "latitude": 45.032184,
+    "longitude": 38.978285,
+    "radius": 140.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_08",
+    "cityId": "krasnodar",
+    "title": "Улица Красная — Часовня Александра Невского",
+    "description": "Атмосферная точка центральной пешеходной улицы.",
+    "latitude": 45.030189,
+    "longitude": 38.973935,
+    "radius": 80.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_09",
+    "cityId": "krasnodar",
+    "title": "Мост Поцелуев",
+    "description": "Романтичный мост у берега Кубани.",
+    "latitude": 45.018711,
+    "longitude": 38.999143,
+    "radius": 140.0,
+    "isCompleted": false
+  },
+  {
+    "id": "krasnodar_10",
+    "cityId": "krasnodar",
+    "title": "Музей им. Коваленко",
+    "description": "Один из главных художественных музеев юга России.",
+    "latitude": 45.036530,
+    "longitude": 38.973145,
+    "radius": 100.0,
+    "isCompleted": false
+  }
+]

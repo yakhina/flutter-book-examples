@@ -1,0 +1,93 @@
+[
+  {
+    "cityId": "moscow",
+    "name": "Москва",
+    "latitude": 55.755825,
+    "longitude": 37.617298,
+    "radius": 35000.0
+  },
+  {
+    "cityId": "saint_petersburg",
+    "name": "Санкт-Петербург",
+    "latitude": 59.937500,
+    "longitude": 30.308611,
+    "radius": 32000.0
+  },
+  {
+    "cityId": "cupertino",
+    "name": "Купертино (Apple Park)",
+    "latitude": 37.334900,
+    "longitude": -122.009020,
+    "radius": 3500.0
+  },
+  {
+    "cityId": "novosibirsk",
+    "name": "Новосибирск",
+    "latitude": 55.030199,
+    "longitude": 82.920430,
+    "radius": 25000.0
+  },
+  {
+    "cityId": "yekaterinburg",
+    "name": "Екатеринбург",
+    "latitude": 56.838926,
+    "longitude": 60.605703,
+    "radius": 20000.0
+  },
+  {
+    "cityId": "kazan",
+    "name": "Казань",
+    "latitude": 55.796289,
+    "longitude": 49.108795,
+    "radius": 17000.0
+  },
+  {
+    "cityId": "nizhny_novgorod",
+    "name": "Нижний Новгород",
+    "latitude": 56.326887,
+    "longitude": 44.005986,
+    "radius": 18000.0
+  },
+  {
+    "cityId": "samara",
+    "name": "Самара",
+    "latitude": 53.195878,
+    "longitude": 50.100202,
+    "radius": 20000.0
+  },
+  {
+    "cityId": "rostov_on_don",
+    "name": "Ростов-на-Дону",
+    "latitude": 47.222078,
+    "longitude": 39.720358,
+    "radius": 25000.0
+  },
+  {
+    "cityId": "ufa",
+    "name": "Уфа",
+    "latitude": 54.738764,
+    "longitude": 55.972055,
+    "radius": 21000.0
+  },
+  {
+    "cityId": "volgograd",
+    "name": "Волгоград",
+    "latitude": 48.708048,
+    "longitude": 44.513303,
+    "radius": 30000.0
+  },
+  {
+    "cityId": "voronezh",
+    "name": "Воронеж",
+    "latitude": 51.660781,
+    "longitude": 39.200269,
+    "radius": 18000.0
+  },
+  {
+    "cityId": "krasnodar",
+    "name": "Краснодар",
+    "latitude": 45.035470,
+    "longitude": 38.975313,
+    "radius": 20000.0
+  }
+]
